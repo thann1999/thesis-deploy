@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app/modules/home/css/style.scss"],"names":[],"mappings":"AAAA,WACI,eAAgB,CAChB,qBAAuB","file":"14.c9118ebb.chunk.css","sourcesContent":[".main-page {\r\n    margin-top: 50px;\r\n    width: 700px !important;\r\n}"]}
