@@ -5,6 +5,7 @@
   "scripts": {
     "start": "nodemon --inspect ./bin/www"
   },
+  "proxy": "http://localhost:3000",
   "dependencies": {
     "adm-zip": "^0.5.5",
     "axios": "^0.21.1",
